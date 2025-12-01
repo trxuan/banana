@@ -1,0 +1,30 @@
+# 现代生活方式 OOTD 拼贴
+**[Type]:** A modern "Photo Dump" style editorial grid. **Assymetrical Grid Layout (Bento Grid style).**
+**[Vibe]:** Effortless chic, clean aesthetic, "That Girl" / "Old Money" vibe, natural sunlight.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Outfit:** **[Specific Outfit Description, e.g., Oversized Blazer + Baseball Cap + Jeans]**.
+* **Location:** A minimalist urban cafe or an art gallery.
+
+**[Grid Components - The "Lifestyle" Mix]:**
+
+**The Hero Shot (Dominant Panel):**
+* **Main Frame:** Full-body shot, walking across a crosswalk or sitting on a cafe chair. Candid movement. Natural smile or "too cool to care" look.
+
+**The Details (Supporting Panels):**
+* **Fabric Detail:** Macro shot of the clothing texture (e.g., tweed, denim) or a jewelry accessory.
+* **The "Vibe" Object:** A hand holding an iced matcha latte or a film camera. Shallow depth of field.
+* **Motion Blur:** A blurry shot of the subject laughing or turning around quickly.
+* **Environment:** An empty chair with a bag left on it, or a shadow cast on a concrete wall.
+
+**[Composition & Lighting]:**
+* **Lighting:** Golden hour sunlight casting long, sharp shadows.
+* **Composition:** Mix of Dutch angles for dynamism and straight-on shots for clarity.
+* **Overlay:** (Optional) Minimalist UI elements like a battery icon or a date stamp in the corner.
+
+**[Aesthetic Style]:**
+* **Look:** Digital crispness but with a VSCO film preset (C1 or A6). Slightly desaturated greens, warm skin tones.
+* **Texture:** Clean, glossy magazine feel.
+
+**[Parameters]:** --ar 3:4 --style raw --v 6.0 --stylize 150 --cref [URL] --cw 90 --no heavy makeup, studio backdrop, dramatic lighting, messy composition
