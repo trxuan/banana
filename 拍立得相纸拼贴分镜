@@ -1,0 +1,32 @@
+# 拍立得相纸拼贴分镜
+**[Type]:** A flat-lay arrangement of 9 Fujifilm Instax/Polaroid photos arranged in a grid on a wooden table.
+**[Vibe]:** Nostalgic, intimate, raw, "flash photography" aesthetic.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Styling:** Casual streetwear, messy bun or loose hair.
+* **Expression:** Playful, making silly faces, winking, eating pizza/snacks.
+
+**[The Grid - "Friday Night Memories"]:**
+
+**Visual Structure:**
+Each of the 9 panels is a white-bordered instant photo containing a specific shot:
+1. **Top Row (The Setup):**
+   * Photo 1: Subject fixing hair in a mirror (reflection shot).
+   * Photo 2: Close-up of subject's eye with red-eye effect from flash.
+   * Photo 3: Subject holding a sparkler or a disco ball.
+2. **Middle Row (The Action):**
+   * Photo 4: Blurry motion shot of subject dancing/laughing.
+   * Photo 5: **(Center)** High-angle selfie shot (holding the camera).
+   * Photo 6: Subject hugging a large plush toy or a cat.
+3. **Bottom Row (The Aftermath):**
+   * Photo 7: Subject sleeping/resting head on table.
+   * Photo 8: Detail of messy food/drinks on the table.
+   * Photo 9: Subject walking away, looking back over shoulder.
+
+**[Artistic Details]:**
+* **Lighting:** **Hard flash direct lighting**. Sharp shadows behind the subject. Nighttime feel.
+* **Text:** Some photos have handwritten notes in black marker on the white border (e.g., "LUV", "2AM", "XOXO").
+* **Texture:** Glossy photo paper texture, slight fingerprints.
+
+**[Parameters]:** --ar 3:4 --style raw --v 6.0 --stylize 250 --cref [URL] --cw 80 --no studio lighting, perfect skin, professional composition, digital art
