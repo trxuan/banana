@@ -1,0 +1,27 @@
+# 科幻HUD角色分析界面
+**[Type]:** A futuristic Augmented Reality (AR) interface analysis layout. **Cyberpunk UI design, Bento Grid layout.**
+**[Visual Style]:** High-tech, glassmorphism, neon accents, data visualization.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Attire:** Techwear style (straps, buckles, functional layers) or sleek futuristic bodysuit.
+* **Lighting:** Bi-color neon lighting (Cyberpunk Blue and Magenta) on the face.
+
+**[The Interface Layout]:**
+
+**Center Main Panel (The Scan):**
+* A large central portrait of the subject. A digital wireframe grid is partially overlaying their face (facial recognition scan).
+* Floating holographic text next to head: "IDENTITY CONFIRMED", "HEART RATE: 120".
+
+**Surrounding Data Grids (Glass Panels):**
+1. **Top-Left:** Close-up of the eye with a digital reticle/target lock overlay.
+2. **Top-Right:** A spinning 3D wireframe model of the subject's body.
+3. **Bottom-Left:** "Inventory" layout – grid showing items (sunglasses, keycard, device) in a clean flat design.
+4. **Bottom-Right:** Thermal imaging view (heat map) of the subject.
+
+**[Graphic Elements]:**
+* **UI:** Semi-transparent frosted glass panels with thin white borders.
+* **Typography:** Tiny technical coding numbers, scrolling data streams in background.
+* **Color Palette:** Dark background, electric blue, neon purple, and white text.
+
+**[Parameters]:** --ar 3:2 --style raw --v 6.0 --stylize 400 --cref [URL] --cw 90 --no rustic, vintage, paper texture, natural sunlight, messy
