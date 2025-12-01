@@ -1,5 +1,8 @@
+1.韦斯·安德森美学分镜
 <img width="250" height="250" alt="韦斯·安德森美学分镜" src="https://github.com/user-attachments/assets/915deb7d-f2a3-4873-885d-6e2c86ddece2" />
+2.狄金斯式光影剪影分镜
 <img width="250" height="250" alt="狄金斯式光影剪影分镜" src="https://github.com/user-attachments/assets/56c7838f-10c7-4d82-bca7-0e02a7c0df9a" />
+3.港式电影情绪分镜
 <img width="250" height="250" alt="港式电影情绪分镜" src="https://github.com/user-attachments/assets/bf4d3e85-0cf5-4b98-92ed-741b2e7baaa9" />
 <img width="250" height="250" alt="监控摄像头九宫格" src="https://github.com/user-attachments/assets/8b7d8286-a2ae-4757-8508-3241122a7520" />
 <img width="250" height="250" alt="科幻HUD角色分析界面" src="https://github.com/user-attachments/assets/51b668be-f71e-4a06-a889-84df65050b55" />
