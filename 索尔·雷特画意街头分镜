@@ -1,0 +1,29 @@
+# 索尔·雷特画意街头分镜
+**[Type]:** An artistic, painterly contact sheet mimicking Saul Leiter's street photography. **Obscured views, layers, reflections, and bold color blocking.**
+**[Vibe]:** Impressionistic, private, rainy day melancholy, visually complex.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Visibility:** The subject is rarely seen clearly. They are viewed *through* something or partially blocked.
+* **Setting:** Urban street, cafe interior, rainy city.
+
+**[Compositional Layers - "Seeing Through"]:**
+
+**The "Steamed Glass" Layer:**
+* **Panels 1, 5, 9:** Shot through a window covered in heavy condensation or rain streaks. The subject inside is blurred, a wash of color and shape. Outside city lights smear into bokeh.
+
+**The "Reflection" Layer:**
+* **Panels 3, 7:** Shot looking into a shop window or mirror. The subject's reflection is mixed overlapping with the street scene behind the camera. Double exposure effect.
+
+**The "Foreground Block" Layer:**
+* **Panel 2:** A large red umbrella occupies the left half of the frame. Subject is visible on the right, out of focus.
+* **Panel 4:** View through a narrow gap in curtains or a partially open door. Subject is sliver of view.
+* **Panel 6:** A blurred taxi roof or passerby's shoulder blocks the bottom half of the shot.
+
+**The "Color Field" Layer:**
+* **Panel 8:** Focus on texture. A wet pavement reflecting neon signs, with the subject's blurry feet walking through it.
+
+**[Aesthetic Style]:**
+* **Film Stock:** Kodachrome grain. Rich, deep, saturated colors (especially reds, greens, yellows). Soft focus. painterly brush-stroke feel.
+
+**[Parameters]:** --ar 3:4 --style raw --v 6.0 --stylize 350 --cref [URL] --cw 80 --no clean view, sharp focus, wide angle landscape, modern digital look, bright sunny day
