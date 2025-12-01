@@ -1,0 +1,31 @@
+# 监控摄像头九宫格
+**[Type]:** A security monitor screen displaying a 3x3 grid of CCTV live feeds. **Gritty realism, surveillance footage.**
+**[Layout]:** 9 distinct camera angles monitoring the same subject in different rooms or street corners.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Action:** The subject is moving through a space (e.g., a subway station, a convenience store, or an elevator).
+* **Vibe:** Suspicious, unaware of being watched, or looking up at the camera.
+
+**[Camera Angles & "Glitch"]:**
+
+**Row 1 (Wide & Public):**
+1. **Cam 01:** High-angle fisheye view of an elevator. Subject stands in corner.
+2. **Cam 02:** Long shot of a subway platform. Subject waiting alone.
+3. **Cam 03:** Street corner view, black and white grainy night vision.
+
+**Row 2 (Close & Tracking):**
+4. **Cam 04:** Over-the-shoulder view from a hidden camera in a shelf.
+5. **Cam 05:** **(Main Focus)**: Medium shot, subject looking directly up at the security camera, breaking the fourth wall.
+6. **Cam 06:** Motion blurred shot of subject running down stairs.
+
+**Row 3 (Details & Errors):**
+7. **Cam 07:** Extreme close-up of subject's hand pressing an elevator button (pixelated zoom).
+8. **Cam 08:** "NO SIGNAL" static screen or heavy digital glitch.
+9. **Cam 09:** Back view of subject entering a door.
+
+**[Overlays]:**
+* **UI Elements:** Green text overlays: "REC", "CAM 01", "LIVE", timestamps "23:42:15".
+* **Quality:** VHS static noise, chromatic aberration, scan lines, slight desaturation.
+
+**[Parameters]:** --ar 16:9 --style raw --v 6.0 --stylize 100 --cref [URL] --cw 70 --no high resolution, 4k, beauty filter, perfect lighting, warm colors
