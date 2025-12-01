@@ -1,0 +1,32 @@
+# 韦斯·安德森美学分镜
+
+**[Type]:** A conceptual 3x3 storyboard grid inspired by Wes Anderson's cinematography. **Symmetrical composition, pastel color palette, flat lighting.**
+**[Layout Design]:** 9 panels arranged in a perfect square. The center panel is the main subject portrait. Surrounding panels mix wide shots and specific object details (knolling style).
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Attire:** Vintage 1970s styling. A beret, a colorful uniform or retro suit, and oversized glasses.
+* **Expression:** Deadpan expression (neutral, staring directly at the camera), quirky and whimsical.
+
+**[Grid Composition - The "Symmetry" Guide]:**
+
+**Row 1: The Environment (Wide & Flat)**
+1. **Top-Left:** Extreme wide shot of a symmetrical building or room (pastel pink/blue walls). Subject stands exactly in the center.
+2. **Top-Middle:** A flat-lay (knolling) of the subject's items: a vintage camera, a ticket, a compass, arranged neatly.
+3. **Top-Right:** Side profile of the subject looking left, standing against a patterned wallpaper.
+
+**Row 2: The Portrait (The Hero Shots)**
+4. **Center-Left:** Close-up of the subject's hands holding a specific prop (e.g., a yellow suitcase) symmetrically.
+5. **Center:** **The Signature Shot.** Medium shot, front-facing, perfect symmetry. Subject looks straight into the lens. Uncanny focus.
+6. **Center-Right:** Close-up of the subject's shoes (retro loafers) and socks, standing on a tiled floor.
+
+**Row 3: The Narrative (Quirky Action)**
+7. **Bottom-Left:** Subject looking through binoculars (creates a mask effect).
+8. **Bottom-Middle:** Subject sitting on a bench, perfectly centered, reading a newspaper.
+9. **Bottom-Right:** Back view of the subject walking away into a vanishing point perspective.
+
+**[Aesthetic Style]:**
+* **Color Grade:** Pastel yellow, mint green, and millennial pink. Low contrast, high saturation.
+* **Lens:** 40mm anamorphic lens emulation. No depth of field (deep focus).
+
+**[Parameters]:** --ar 1:1 --style raw --v 6.0 --stylize 250 --cref [URL] --cw 90 --no messy background, dutch angle, modern clothing, high contrast shadows
