@@ -1,0 +1,31 @@
+# 狄金斯式光影剪影分镜
+**[Type]:** A cinematic storyboard grid emphasizing extreme contrast lighting (Chiaroscuro). **Minimalist composition, bold silhouettes, vast negative space.**
+**[Layout Design]:** A 3x3 grid. The composition alternates between stark black shadows and bright light sources.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Visibility:** The character is mostly seen in silhouette or rim-lighting. Their identity is defined by outline and posture rather than facial detail.
+* **Action:** Static, contemplative poses. Standing still, looking down, or slowly walking.
+
+**[Lighting & Composition Guide - "The Architecture of Light"]:**
+
+**Row 1: The Void (Negative Space)**
+1. **Top-Left:** Extreme Long Shot. Tiny silhouette of the subject standing in a vast desert or empty concrete hall. 90% of frame is empty sky/wall.
+2. **Top-Middle:** Medium Shot Silhouette. Subject stands in front of a massive, bright circular light source (like a setting sun or tunnel opening). Rim light only.
+3. **Top-Right:** High angle looking down. Subject's long shadow stretches across the floor.
+
+**Row 2: The Texture (Light forming Shape)**
+4. **Center-Left:** "Venetian Blind" effect. Strips of hard light cut across the subject's face in a dark room.
+5. **Center (Focus):** Profile shot. A single harsh rim light outlines the edge of their face and hair against pure blackness.
+6. **Center-Right:** Silhouette against smoke/fog that is back-lit by an orange or blue light source.
+
+**Row 3: The Environment (Man vs. World)**
+7. **Bottom-Left:** Wide shot of a brutalist building. Subject is a small dark speck against a massive illuminated concrete wall.
+8. **Bottom-Middle:** Subject walking through a dark corridor towards a blinding light at the end.
+9. **Bottom-Right:** Reflection of the silhouette in a puddle of water on dark asphalt.
+
+**[Aesthetic Style]:**
+* **Color Palette:** Monochromatic or duo-tone (e.g., Deep Orange/Black, Cold Blue/Black).
+* **Mood:** Isolation, atmospheric, epic, quiet tension.
+
+**[Parameters]:** --ar 1:1 --style raw --v 6.0 --stylize 450 --cref [URL] --cw 60 --no cheerful, bright daylight, flat lighting, detailed face, busy background
