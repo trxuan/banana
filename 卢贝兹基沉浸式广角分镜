@@ -1,0 +1,31 @@
+# 卢贝兹基沉浸式广角分镜
+**[Type]:** A 3x3 cinematic grid capturing a raw, immersive experience. **Extreme wide-angle lenses close to the subject, natural lighting only.**
+**[Vibe]:** Visceral, highly realistic, documentary feel, epic scale, deep focus.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Proximity:** The camera is physically very close to the subject in most shots, feeling intimate despite the wide lens.
+* **Attire:** Weathered clothing suitable for the outdoors (a heavy coat, wool sweater).
+
+**[Cinematography - "The Unblinking Eye"]:**
+
+**Row 1: The Environment (Vastness)**
+1. **Top-Left:** Extreme wide landscape shot (e.g., snowy field, large forest, giant empty warehouse). Subject is small, walking into the distance. Overcast sky.
+2. **Top-Middle:** Wide shot, subject standing still looking at horizon. The environment curves slightly due to lens distortion.
+3. **Top-Right:** Low angle, wide shot looking up at subject against a dramatic, cloudy sky.
+
+**Row 2: The Immersion (Close & Wide)**
+4. **Center-Left:** **Signature Shot.** The camera is inches from the subject's face (a wide-angle close-up). We see pores and breath condensation. The background is huge but in focus.
+5. **Center:** Tracking shot from behind (steadicam glide). We follow closely behind the subject moving through difficult terrain.
+6. **Center-Right:** Wide-angle medium shot. Subject sitting on the ground, exhausted. The ground texture in foreground is ultra-sharp.
+
+**Row 3: The Natural Light (Golden Hour / Blue Hour)**
+7. **Bottom-Left:** Backlit by the very last rays of sunset. Lens flare. Subject is semi-silhouetted.
+8. **Bottom-Middle:** Shot during "Blue Hour" (just before dawn/after dusk). Cold, diffused, soft natural light everywhere.
+9. **Bottom-Right:** Shot indoors near a large window. Only illuminated by the soft window light.
+
+**[Technical Specs]:**
+* **Lens:** 14mm or 21mm prime lens emulation. Slight barrel distortion at edges.
+* **Focus:** Deep depth of field (f/8 or f/11). Everything from foreground mud to distant mountains is sharp.
+
+**[Parameters]:** --ar 16:9 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no artificial light, studio flash, bokeh, shallow depth of field, telephoto lens compression
