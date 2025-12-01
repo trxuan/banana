@@ -1,0 +1,33 @@
+# 港式电影情绪分镜
+**[Type]:** A cinematic contact sheet from a 90s Hong Kong art film. **A 2x4 grid (8 panels) layout.**
+**[Atmosphere]:** Heavy atmosphere, neon lighting, motion blur, sense of longing and solitude.
+
+**[Subject Consistency - STRICT]:**
+* **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS]**.
+* **Styling:** Trench coat or silk dress. Hair slightly messy from humidity.
+* **Setting:** A cramped noodle shop, a rainy neon street, or a narrow hallway.
+
+**[Cinematography & Lighting - "Impressionistic"]:**
+**[RANDOMLY SELECT ONE Color Theme]:**
+1. **{Theme: Fallen Angel}:** Greenish fluorescent tint mixed with wide-angle distortion.
+2. **{Theme: Love Mood}:** Deep reds and warm shadows, soft vintage grain.
+
+**[Grid Narrative - "A Lonely Night"]:**
+
+**Row 1: The Waiting (Static & Detail)**
+1. **Panel 1 (Reflection):** Shot through a wet window with rain droplets. Subject's reflection mixed with neon signs.
+2. **Panel 2 (Smoke/Steam):** Close-up of cigarette smoke or steam from hot food swirling around the subject's face. Focus is soft.
+3. **Panel 3 (The Gaze):** Extreme Close-Up (ECU) on the eyes, looking off-screen with melancholy.
+4. **Panel 4 (Constraint):** Framed through a doorframe or shelves (frame-within-a-frame), implying a voyeuristic view.
+
+**Row 2: The Movement (Step-printing effect)**
+5. **Panel 5 (Blur):** Subject walking in a crowd. The crowd is blurred (slow shutter), subject is sharp but ghosted.
+6. **Panel 6 (Interaction):** Subject leaning against a dirty tiled wall, looking at a ticking clock.
+7. **Panel 7 (Intimacy):** Close-up of hand touching a glass of iced water. Condensation details.
+8. **Panel 8 (Departure):** View of the subject's back disappearing into a bokeh-heavy night street.
+
+**[Technical Specs]:**
+* **Film Stock:** Kodak Vision3 500T. High ISO grain.
+* **Technique:** Step-printing (jerkiness), heavy vignetting, rich blacks.
+
+**[Parameters]:** --ar 4:3 --style raw --v 6.0 --stylize 300 --cref [URL] --cw 80 --no clean lighting, bright sunlight, studio portrait, cheerful expression
